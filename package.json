@@ -1,0 +1,21 @@
+{
+  "name": "webpack-bundle-duplicator-plugin",
+  "version": "1.0.0",
+  "description": "Don't re-generate the same bundle content multiple times- make copies of your output bundles and give different names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/webpack-bundle-duplicator-plugin.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/webpack-bundle-duplicator-plugin/issues"
+  },
+  "dependencies": {
+    "seebigs-each": "^1.1.0"
+  }
+}
